@@ -1,0 +1,9 @@
+open 10.142.80.21
+user
+BSS-Jizhong
+H6g!52et
+cd /dpi/scripts
+binary
+mget *.sh
+close
+bye
